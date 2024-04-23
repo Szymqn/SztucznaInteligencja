@@ -12,3 +12,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu *Sztuczna Inteligencja*
 ### Drzewa decyzyjne
 
 [Przejdź do laboratorium](https://github.com/Szymqn/SztucznaInteligencja/tree/master/lab03)
+
+## 3. Laboratorium
+### Las losowy, bagging, boosting
+
+[Przejdź do laboratorium](https://github.com/Szymqn/SztucznaInteligencja/tree/master/lab03)
