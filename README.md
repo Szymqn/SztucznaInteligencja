@@ -16,4 +16,10 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu *Sztuczna Inteligencja*
 ## 3. Laboratorium
 ### Las losowy, bagging, i boosting
 
-[Przejdź do laboratorium](https://github.com/Szymqn/SztucznaInteligencja/tree/master/lab03)
+[Przejdź do laboratorium](https://github.com/Szymqn/SztucznaInteligencja/tree/master/lab04)
+
+
+## 4. Laboratorium
+### SVM
+
+[Przejdź do laboratorium](https://github.com/Szymqn/SztucznaInteligencja/tree/master/lab05)
